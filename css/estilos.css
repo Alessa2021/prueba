@@ -1,0 +1,39 @@
+.w-5{ width: 5%}
+.w-10{ width: 10%}
+.w-12{ width: 12%}
+.w-15{ width: 15%}
+.w-20{ width: 20%}
+.w-30{ width: 30%}
+.w-40{ width: 40%}
+.w-45{ width: 45%}
+.w-60{ width: 60%}
+.w-70{ width: 70%}
+.w-80{ width: 80%}
+.w-90{ width: 90%}
+.w-100{ width: 100%}
+.w-dia{width: 5%;}
+.w-anio{width: 8%;}
+
+.p-item{ padding-left: 10px;}
+.mar-r{ margin-right: 10px;}
+
+button {
+    padding-right: 5px;
+   
+    
+}
+.contenedor{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+.mdl-layout{
+    min-width: 360px;
+}
+
+.btn-azul{
+    color: blue
+}
+.btn-red{
+    color: red
+}

@@ -1,0 +1,7 @@
+- pwa de prueba 
+- Simulación de nuestra app en un celular android https://apkonline.net
+
+- Documentación del Manifest (manifiesto del sitio web) MDN y Google
+Mozilla https://developer.mozilla.org/es/docs/Web/Manifest
+
+- Generador online de archivo Manifest
